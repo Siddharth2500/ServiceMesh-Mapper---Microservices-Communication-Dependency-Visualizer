@@ -9,7 +9,7 @@
 
 **ServiceMesh-Mapper** is a Python 3 tool designed to simulate inter-microservice calls, build a directed dependency graph, and visually map microservices communication flows with latency insights. It’s built for DevOps/SRE teams who want a quick visualization of service dependencies and communication patterns.
 
-----------
+-------------
 
 ## 🛠 Tech & Languages
 
