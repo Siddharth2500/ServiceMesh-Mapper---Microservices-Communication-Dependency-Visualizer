@@ -32,7 +32,7 @@ Flow:
 4. Draw the graph and save as `service_map.png` for visual inspection  
 5. Use the report and graph for dashboards, CI/CD checks, architecture reviews  
 
----
+-----
 
 ## ▶️ Run ServiceMesh-Mapper
 
